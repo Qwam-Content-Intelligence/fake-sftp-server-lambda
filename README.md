@@ -1,3 +1,7 @@
+# MIGRATION TO GITLAB
+
+repository is archived and migrated to gitlab deveryware on 25 june 2025
+
 # Fake SFTP Server Lambda
 
 [![Build Status](https://travis-ci.org/stefanbirkner/fake-sftp-server-lambda.svg?branch=master)](https://travis-ci.org/stefanbirkner/fake-sftp-server-lambda)
